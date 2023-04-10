@@ -1,4 +1,4 @@
-<h1>FoodHub Project</h1>
+<h1>FoodHub Order Analysis</h1>
 
 <h2>Description</h2>
 Context
@@ -12,6 +12,12 @@ Objective
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business. 
 <br />
 
+<h2>Skills and Tools Covered</h2>
+- <b>Exploratory Data Analysis</b> 
+- <b>Variable Identification</b>
+- <b>Univariate Analysis</b>
+- <b>Bi-variate Analysis</b> 
+- <b>Python</b>
 
 <h2>Languages and Utilities Used</h2>
 
