@@ -23,8 +23,9 @@ The food aggregator company has stored the data of the different orders made by 
 
 - <b>Macbook</b> 
 
-- <b>Link to Code</b>
-  - [FoodHub Project](file:///Users/christianfelton/Downloads/DAE%20Program/Python/Project/Foodhub_Project.html)
+<h2>Link to Code </h2>
+<b>(file:///Users/christianfelton/Downloads/DAE%20Program/Python/Project/Foodhub_Project.html)</b> 
+
 
 
 <!--
