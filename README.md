@@ -13,11 +13,11 @@ The food aggregator company has stored the data of the different orders made by 
 <br />
 
 <h2>Skills and Tools Covered</h2>
-- <b>Exploratory Data Analysis</b> 
-- <b>Variable Identification</b>
-- <b>Univariate Analysis</b>
-- <b>Bi-variate Analysis</b> 
-- <b>Python</b>
+- Exploratory Data Analysis</b> 
+- Variable Identification</b>
+- Univariate Analysis</b>
+- Bi-variate Analysis</b> 
+- Python</b>
 
 <h2>Languages and Utilities Used</h2>
 
